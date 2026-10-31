@@ -1,0 +1,7 @@
+{
+  "default_priority": "Medium",
+  "default_category": "General",
+  "week_start_day": "Monday",
+  "enable_color": true,
+  "ongoing_task_id": 1
+}

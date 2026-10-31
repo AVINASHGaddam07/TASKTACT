@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+/activity.json
+/config.json
+/report.txt
+/tasks.json
+/tasks.json.bak
+/tasks_export.csv
+/tasktact.log

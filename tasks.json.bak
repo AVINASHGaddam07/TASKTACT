@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "API Test Task One Updated",
+    "category": "Testing",
+    "priority": "High",
+    "due": "2026-10-30",
+    "status": "Pending",
+    "created": "2026-10-29 10:00:00",
+    "completed": "",
+    "notes": "Verify REST endpoints",
+    "tags": [
+      "api",
+      "test"
+    ],
+    "recurrence": "none",
+    "due_time": "16:45",
+    "alert_offset": "30m"
+  },
+  {
+    "id": 2,
+    "title": "Daily Standup",
+    "category": "General",
+    "priority": "Medium",
+    "due": "2026-10-30",
+    "due_time": "09:30",
+    "alert_offset": "15m",
+    "status": "Pending",
+    "created": "2026-10-30 17:44:35",
+    "completed": "",
+    "notes": "",
+    "tags": [],
+    "recurrence": "daily"
+  },
+  {
+    "id": 3,
+    "title": "PRESENNTATION",
+    "category": "Academic",
+    "priority": "High",
+    "due": "2026-10-31",
+    "due_time": "10:09",
+    "alert_offset": "at_due",
+    "status": "Pending",
+    "created": "2026-10-31 10:07:51",
+    "completed": "",
+    "notes": "",
+    "tags": [],
+    "recurrence": "none"
+  }
+]
